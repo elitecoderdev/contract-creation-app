@@ -1,3 +1,8 @@
+# Contract Management System
+## Overview
+
+This project is a Contract Management System that facilitates users to sign in or sign up. Once logged in, users can create pre-written contract documents, add signatures of people involved in the contract, and manage documents based on email addresses for each logged-in user.
+
 ## Features
 
 - **User Authentication**: Allows users to sign in or sign up to access the system.
